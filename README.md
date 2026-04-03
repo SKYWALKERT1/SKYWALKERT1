@@ -23,6 +23,6 @@ Yapay zeka (Bilgisayarlı Görü & NLP) algoritmalarını modern mobil mimariler
 `Flutter` &nbsp; `Dart` &nbsp; `Python` &nbsp; `R` &nbsp; `Ollama` &nbsp; `ChromaDB` &nbsp; `Arch Linux`
 
 ### 📈 Metrikler
-<a href="https://github.com/kullanici_adin">
+<a href="https://github.com/SKYWALKERT1">
   <img src="https://github-readme-stats.vercel.app/api?username=kullanici_adin&show_icons=true&theme=transparent&hide_border=true&title_color=151515&icon_color=151515&text_color=555555&rank_icon=github" width="450" alt="GitHub Stats" />
 </a>
