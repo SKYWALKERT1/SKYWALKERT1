@@ -24,7 +24,7 @@
 
 ```yaml
 name: Furkan Fatih Çiftçi
-role: AI Engineer
+role: Senior Frontend Developer & AI Engineer
 location: Türkiye 🇹🇷
 focus:
   - Cross-platform mobile apps with Flutter & Dart
@@ -163,7 +163,26 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 ---
 
+<!-- METRICS & SUMMARY -->
+## ⚡ Quick Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKYWALKERT1&theme=github_dark" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SKYWALKERT1&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SKYWALKERT1&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SKYWALKERT1&theme=github_dark&utcOffset=3" width="32%"/>
+
+</div>
+
+---
+
 <!-- SNAKE ANIMATION -->
+## 🐍 Contribution Snake
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKYWALKERT1/SKYWALKERT1/output/github-snake-dark.svg" />
