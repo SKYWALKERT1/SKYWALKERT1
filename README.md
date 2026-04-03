@@ -25,8 +25,10 @@ Yapay zeka (Bilgisayarlı Görü & NLP) algoritmalarını modern mobil mimariler
 
 ### ❖ Metrikler
 
+### ❖ Metrikler
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKYWALKERT1&show_icons=false&theme=transparent&hide_border=true&title_color=151515&text_color=555555" height="130" alt="Genel İstatistikler" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SKYWALKERT1&show_icons=false&theme=transparent&hide_border=true&title_color=151515&text_color=555555&cache_seconds=86400" height="130" alt="Genel İstatistikler" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=transparent&hide_border=true&title_color=151515&text_color=555555&date_color=555555" height="130" alt="Katkı Serisi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=transparent&hide_border=true&title_color=151515&text_color=555555&date_color=555555&cache_seconds=86400" height="130" alt="Katkı Serisi" />
 </p>
