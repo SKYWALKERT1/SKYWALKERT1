@@ -24,7 +24,7 @@
 
 ```yaml
 name: Furkan Fatih Çiftçi
-role: Senior Frontend Developer & AI Engineer
+role: Flutter & AI Engineer
 location: Türkiye 🇹🇷
 focus:
   - Cross-platform mobile apps with Flutter & Dart
