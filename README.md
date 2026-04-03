@@ -39,7 +39,3 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=transparent&hide_border=true&title_color=00C8FF&text_color=888888&icon_color=00C8FF&date_color=888888" height="150" alt="Katkı Serisi" />
 </p>
-
-<p align="left">
-  <img src="https://ghchart.rshah.org/00C8FF/SKYWALKERT1" alt="GitHub Katkı Grafiği" />
-</p>
