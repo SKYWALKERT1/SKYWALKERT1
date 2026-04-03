@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1200&h=250&q=80" width="100%" alt="AI Neural Network" />
+  <br/>
+  <h1>Furkan Fatih Çiftçi</h1>
   
-  <br/><br/>
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Furkan+Fatih+Çiftçi;Mobile+AI+Engineer;Flutter+Developer;Computer+Vision+%26+NLP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Mobile+AI+Engineer;Flutter+Developer;Computer+Vision+%26+NLP" alt="Typing SVG" />
   </a>
   
+  <br/>
+
   <p>
     <a href="https://linkedin.com/in/furkan-fatih-ciftci">
       <img src="https://img.shields.io/badge/LinkedIn-151515?style=flat-square&logo=linkedin&logoColor=00C8FF" alt="LinkedIn" />
