@@ -1,40 +1,195 @@
 <div align="center">
-  <br/><br/>
-  <h1>Furkan Fatih Çiftçi</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Mobile+AI+Engineer;Flutter+Developer;Computer+Vision+%26+NLP" alt="Typing SVG" />
-  </a>
-  
-  <br/>
 
-  <p>
-    <a href="https://linkedin.com/in/furkan-fatih-ciftci">
-      <img src="https://img.shields.io/badge/LinkedIn-151515?style=flat-square&logo=linkedin&logoColor=00C8FF" alt="LinkedIn" />
-    </a>
-    <a href="https://huggingface.co/SkyWalkertT1">
-      <img src="https://img.shields.io/badge/Hugging_Face-151515?style=flat-square&logo=huggingface&logoColor=00C8FF" alt="Hugging Face" />
-    </a>
-  </p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Furkan%20Fatih%20Çiftçi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Frontend%20Developer%20%7C%20AI%20Engineer%20%7C%20Flutter%20Architect&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+mobile+experiences+with+Flutter+%F0%9F%9A%80;Bridging+AI+%26+Mobile+%E2%80%94+Edge+Computing+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
+
+<!-- SOCIAL BADGES -->
+<p>
+<a href="https://github.com/SKYWALKERT1"><img src="https://img.shields.io/badge/GitHub-SKYWALKERT1-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/furkan-fatih-ciftci"><img src="https://img.shields.io/badge/LinkedIn-Furkan%20Fatih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://huggingface.co/SkyWalkertT1"><img src="https://img.shields.io/badge/🤗%20HuggingFace-SkyWalkertT1-FFD21E?style=for-the-badge"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=SKYWALKERT1&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
+
 </div>
 
 ---
 
-> **Yapay zeka (Bilgisayarlı Görü & NLP) algoritmalarını modern mobil mimarilerle harmanlıyor; uç cihazlarda (Edge AI) çalışan, yüksek performanslı ve ölçeklenebilir akıllı sistemler geliştiriyorum.**
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+```yaml
+name: Furkan Fatih Çiftçi
+role: Senior Frontend Developer & AI Engineer
+location: Türkiye 🇹🇷
+focus:
+  - Cross-platform mobile apps with Flutter & Dart
+  - Computer Vision & NLP (YOLO, Transformers, BERT)
+  - Edge AI — deploying ML models on mobile devices
+  - RAG architectures with LLMs (Ollama + ChromaDB)
+current_projects:
+  - "HyprContext: LLM memory system with vector DB (RAG)"
+  - "Closetly: AI-powered virtual try-on Flutter app"
+  - "BERT-based Turkish stock market sentiment classifier"
+motto: "Where Flutter meets AI, magic happens ✨"
+```
+
+---
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Frontend & Mobile
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+</p>
+
+### 🗄️ Data & Infrastructure
+<p>
+<img src="https://img.shields.io/badge/ChromaDB-4A154B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### ⚙️ Tools & OS
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/SKYWALKERT1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKYWALKERT1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYWALKERT1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+</a>
 
 <br/>
 
-### 🎯 Odak ve Üretim
-* **HyprContext:** LLM'ler için vektör veritabanı (ChromaDB) ve Ollama destekli, uzun vadeli bağlamsal hafıza (RAG) mimarisi.
-* **Mobile Vision:** Görüntü işleme modellerinin Flutter arayüzleriyle gerçek zamanlı entegrasyonu.
-* **Veri & Altyapı:** Arch Linux tabanlı geliştirme ortamlarında Python ve R ile veri analiz süreçleri.
+<!-- STREAK STATS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="700"/>
 
-### 🛠 Teknoloji Yığını
-`Flutter` &nbsp; `Dart` &nbsp; `Python` &nbsp; `R` &nbsp; `Ollama` &nbsp; `ChromaDB` &nbsp; `Arch Linux`
+<br/>
 
-### 📈 Metrikler
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKYWALKERT1&show_icons=false&theme=transparent&hide_border=true&title_color=00C8FF&text_color=888888" height="130" alt="Genel İstatistikler" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=transparent&hide_border=true&title_color=00C8FF&text_color=888888&date_color=888888" height="130" alt="Katkı Serisi" />
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKYWALKERT1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/SKYWALKERT1/Breast_Canser_Analyst_Neatrual_Networks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=Breast_Canser_Analyst_Neatrual_Networks&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+</a>
+<a href="https://github.com/SKYWALKERT1/helmet_color_detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=helmet_color_detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+</a>
+<a href="https://github.com/SKYWALKERT1/HandNeutralNetworksDesktop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=HandNeutralNetworksDesktop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+</a>
+<a href="https://github.com/SKYWALKERT1/Bist100_Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=Bist100_Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+</a>
+<a href="https://github.com/SKYWALKERT1/artificial-intelligence-face-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=artificial-intelligence-face-detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+</a>
+<a href="https://github.com/SKYWALKERT1/MoviesDataAnalyst">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=MoviesDataAnalyst&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
+</a>
+
+</div>
+
+---
+
+<!-- HUGGINGFACE MODELS -->
+## 🤗 HuggingFace Models
+
+<div align="center">
+
+| Model | Type | Size | Description |
+|:---:|:---:|:---:|:---|
+| [`turkish_bert_stock_market_classification_sentiment`](https://huggingface.co/SkyWalkertT1/turkish_bert_stock_market_classification_sentiment) | Text Classification | 0.1B | 🇹🇷 Turkish stock market sentiment analysis with fine-tuned BERT |
+| [`crypto_bert_sentiment`](https://huggingface.co/SkyWalkertT1/crypto_bert_sentiment) | Text Classification | 0.1B | 🪙 Crypto market sentiment classifier |
+| [`stock_market_dataset`](https://huggingface.co/datasets/SkyWalkertT1/stock_market_dataset) | Dataset | 5.46K rows | 📈 Curated dataset for financial NLP |
+
+</div>
+
+---
+
+<!-- TROPHY -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SKYWALKERT1&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKYWALKERT1/SKYWALKERT1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKYWALKERT1/SKYWALKERT1/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SKYWALKERT1/SKYWALKERT1/output/github-snake-dark.svg" width="100%"/>
+</picture>
+</div>
+
+---
+
+<!-- CONNECT -->
+<div align="center">
+
+### 💬 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/furkan-fatih-ciftci"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/furkan-fatih-ciftci"/></a>
+<a href="https://huggingface.co/SkyWalkertT1"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+<a href="https://github.com/SKYWALKERT1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="500"/>
+
+</div>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
