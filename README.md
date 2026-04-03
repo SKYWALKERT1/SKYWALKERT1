@@ -92,13 +92,6 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 <div align="center">
 
-<a href="https://github.com/SKYWALKERT1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SKYWALKERT1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYWALKERT1&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-</a>
-
-<br/>
-
 <!-- STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="700"/>
 
@@ -115,14 +108,14 @@ motto: "Where Flutter meets AI, magic happens ✨"
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/SKYWALKERT1/Bist100_Dashboard">
-    <img src="https://gh-card.dev/repos/SKYWALKERT1/Bist100_Dashboard.svg?fullname=" width="32%"/>
+  <a href="https://github.com/SKYWALKERT1/Breast_Canser_Analyst_Neatrual_Networks">
+    <img src="https://gh-card.dev/repos/SKYWALKERT1/Breast_Canser_Analyst_Neatrual_Networks.svg?fullname=" width="32%"/>
   </a>
-  <a href="https://github.com/SKYWALKERT1/HandNeutralNetworksDesktop">
-    <img src="https://gh-card.dev/repos/SKYWALKERT1/HandNeutralNetworksDesktop.svg?fullname=" width="32%"/>
+  <a href="https://github.com/SKYWALKERT1/artificial-intelligence-face-detection">
+    <img src="https://gh-card.dev/repos/SKYWALKERT1/artificial-intelligence-face-detection.svg?fullname=" width="32%"/>
   </a>
-  <a href="https://github.com/SKYWALKERT1/MoviesDataAnalyst">
-    <img src="https://gh-card.dev/repos/SKYWALKERT1/MoviesDataAnalyst.svg?fullname=" width="32%"/>
+  <a href="https://github.com/SKYWALKERT1/article-abstract-analyst">
+    <img src="https://gh-card.dev/repos/SKYWALKERT1/article-abstract-analyst.svg?fullname=" width="32%"/>
   </a>
 </div>
 
