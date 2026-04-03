@@ -116,13 +116,13 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 <div align="center">
   <a href="https://github.com/SKYWALKERT1/Bist100_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=Bist100_Dashboard&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=1f6feb" width="30%"/>
+    <img src="https://gh-card.dev/repos/SKYWALKERT1/Bist100_Dashboard.svg?fullname=" width="32%"/>
   </a>
   <a href="https://github.com/SKYWALKERT1/HandNeutralNetworksDesktop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=HandNeutralNetworksDesktop&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=1f6feb" width="30%"/>
+    <img src="https://gh-card.dev/repos/SKYWALKERT1/HandNeutralNetworksDesktop.svg?fullname=" width="32%"/>
   </a>
   <a href="https://github.com/SKYWALKERT1/MoviesDataAnalyst">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=MoviesDataAnalyst&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=1f6feb" width="30%"/>
+    <img src="https://gh-card.dev/repos/SKYWALKERT1/MoviesDataAnalyst.svg?fullname=" width="32%"/>
   </a>
 </div>
 
@@ -143,16 +143,7 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 ---
 
-<!-- TROPHY -->
-## 🏆 GitHub Trophies
 
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=SKYWALKERT1&theme=radical&margin-w=10" alt="SKYWALKERT1 Trophies" />
-</a>
-</div>
-
----
 
 <!-- METRICS & SUMMARY -->
 ## ⚡ Quick Metrics
