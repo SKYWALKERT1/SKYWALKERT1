@@ -114,26 +114,44 @@ motto: "Where Flutter meets AI, magic happens ✨"
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/SKYWALKERT1/Breast_Canser_Analyst_Neatrual_Networks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=Breast_Canser_Analyst_Neatrual_Networks&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/SKYWALKERT1/helmet_color_detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=helmet_color_detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/SKYWALKERT1/HandNeutralNetworksDesktop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=HandNeutralNetworksDesktop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/SKYWALKERT1/Bist100_Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=Bist100_Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/SKYWALKERT1/artificial-intelligence-face-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=artificial-intelligence-face-detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
-<a href="https://github.com/SKYWALKERT1/MoviesDataAnalyst">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=MoviesDataAnalyst&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" />
-</a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/SKYWALKERT1/Breast_Canser_Analyst_Neatrual_Networks">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=Breast_Canser_Analyst_Neatrual_Networks&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SKYWALKERT1/helmet_color_detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=helmet_color_detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/SKYWALKERT1/HandNeutralNetworksDesktop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=HandNeutralNetworksDesktop&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SKYWALKERT1/Bist100_Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=Bist100_Dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400px"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/SKYWALKERT1/artificial-intelligence-face-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=artificial-intelligence-face-detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400px"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SKYWALKERT1/MoviesDataAnalyst">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SKYWALKERT1&repo=MoviesDataAnalyst&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="400px"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -158,7 +176,9 @@ motto: "Where Flutter meets AI, magic happens ✨"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SKYWALKERT1&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SKYWALKERT1&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" width="100%"/>
+</a>
 </div>
 
 ---
