@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Furkan%20Fatih%20Çiftçi&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Flutter%20Developer%20%7C%20AI%20Engineer%20%7C%20Flutter%20Architect&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+mobile+experiences+with+Flutter+%F0%9F%9A%80;Bridging+AI+%26+Mobile+%E2%80%94+Edge+Computing+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+intelligent+%F0%9F%9A%80;Bridging+AI+%26+Mobile+%E2%80%94+Edge+Computing+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 <p>
