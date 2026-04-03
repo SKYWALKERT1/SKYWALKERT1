@@ -23,6 +23,12 @@ Yapay zeka (Bilgisayarlı Görü & NLP) algoritmalarını modern mobil mimariler
 `Flutter` &nbsp; `Dart` &nbsp; `Python` &nbsp; `R` &nbsp; `Ollama` &nbsp; `ChromaDB` &nbsp; `Arch Linux`
 
 ### 📈 Metrikler
-<a href="https://github.com/SKYWALKERT1">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullanici_adin&show_icons=true&theme=transparent&hide_border=true&title_color=151515&icon_color=151515&text_color=555555&rank_icon=github" width="450" alt="GitHub Stats" />
-</a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKYWALKERT1&show_icons=true&theme=transparent&hide_border=true&title_color=151515&icon_color=151515&text_color=555555&rank_icon=github" height="150" alt="Genel İstatistikler" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=transparent&hide_border=true&title_color=151515&text_color=555555&icon_color=151515&date_color=555555" height="150" alt="Katkı Serisi" />
+</p>
+
+<p align="left">
+  <img src="https://ghchart.rshah.org/151515/SKYWALKERT1" alt="GitHub Katkı Grafiği" />
+</p>
